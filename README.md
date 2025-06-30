@@ -2,7 +2,7 @@
 
 **Developed by [Parmanand Jha](https://github.com/parmanand-aphro)**
 
-Delivery Slot Manager for WooCommerce enhances the shopping experience by allowing customers to select their preferred delivery date and time slot before placing an order. This helps store owners manage deliveries more efficiently and improve customer satisfaction.
+Delivery Slot Manager for WooCommerce enhances the shopping experience by allowing customers to select their preferred delivery date and time slot before placing an order. This helps store owners manage deliveries more efficiently and improve customer satisfaction. 
 
 ---
 
