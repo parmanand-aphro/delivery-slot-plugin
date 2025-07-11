@@ -9,7 +9,7 @@ Delivery Slot Manager for WooCommerce enhances the shopping experience by allowi
 ## 🛠️ Features
 
 - Choose delivery date and time on the product or checkout page
-- Customize available slots by day and time
+- Customise available slots by day and time
 - Set maximum deliveries per time slot
 - Disable delivery on specific holidays or dates
 - Seamless integration with WooCommerce
